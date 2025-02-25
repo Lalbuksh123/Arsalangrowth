@@ -28,8 +28,7 @@ reflection = st.text_area("Write Your Reflection Here:")
 
 if reflection:
     st.success(f"🌟Greate Insigth! Your Reflection: {reflection} ")
-
-    else:
+else:
         st.info("Reflection on past experience help you grow! Share your deficulties")
 
         #achievement..........
