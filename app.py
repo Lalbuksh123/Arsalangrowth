@@ -37,7 +37,7 @@ else:
 
         if achievement:
             st.success(f"🌠Amazing! You achieved:{achievement}")
-            else:
+        else:
                 st.info("Big or small , every achievement counts! share one now😍")
 
                 #footer
