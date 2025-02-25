@@ -11,7 +11,7 @@ st.write("Embrance Challanges, learn from mistake,and unlock your full potential
 #quotes section 
 
 st.header(" 💡 Today's Growth Mindset Quotes")
-st.write(""st.Success is not fail, failure is not fatal:it is the courage to continue that counts."_Wistom Churchill")
+st.write(""Success is not final, failure is not fatal:it is the courage to continue that counts."_Wistom Churchill")
 
 st.header("What Your Challange Today?")
 user_input = st.text_input("Describe a challange you're facing:")
